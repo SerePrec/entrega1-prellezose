@@ -61,3 +61,11 @@ También el carrito tiene de base el formato que piden, pero le agregué otro ca
 Agregué una ruta extra de carrito que sirve para actualizar los productos. Ya que aparte de agregar y borrar productos del carrito de manera completa, también quiero poder subir o bajar la cantidad del mismo desde el carrito, es decir, modificar su cantidad a otro valor dentro del rango permitido. Aparte hay una ruta extra también que me devuelve todos los ids de los carritos existentes, que uso para generar un listado de ellos en el front.
 
 También antes de agregar o modificar productos del carrito, valido el stock actual y solo permito la acción, si la cantidad en el carrito va a ser menor o igual al stock. Sino muestro un mensaje de error indicando el problema y notificando el stock del producto.
+
+#### Videos demo
+
+- [Administrando productos](https://drive.google.com/file/d/1Doq09PCSIOYAJkUAQB6Nx3eRucIqIazm/view)
+
+- [Manejando carritos](https://drive.google.com/file/d/12nTy6DGwEsbV7JIcJZzSCrtHCKq-Ltfu/view)
+
+- [Chat](https://drive.google.com/file/d/1N9gJxCTkbRzpF2LY81fshBhQUbH4YkD0/view)
