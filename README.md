@@ -70,6 +70,6 @@ También antes de agregar o modificar productos del carrito, valido el stock act
 
 - [Chat](https://drive.google.com/file/d/1N9gJxCTkbRzpF2LY81fshBhQUbH4YkD0/view)
 
-### Deploy en Heroku (Transitorio):
+### Deploy en Heroku (Temporal):
 
 https://entrega1-prellezose.herokuapp.com
