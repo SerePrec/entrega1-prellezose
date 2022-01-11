@@ -9,6 +9,10 @@ Se trata del desarrollo de una tienda virtual para una bicicletería (Mammoth).
 Por un lado se encuentra el desarrollo de la api REST FULL del ecommerce y por otro unas vistas de frontend para poder probar la funcionalidad de la api.
 Estas vistas son provisorias en esta entrega e irán cambiando a lo largo del curso adaptándose a la funcionalidad final.
 
+### Deploy en Heroku (temporal):
+
+https://entrega1-prellezose.herokuapp.com
+
 ### Ejecución
 
 Luego de clonar o descargar el repositorio e instalar todas las dependencias con `npm install`, existen dos comandos para levantar el proyecto.
@@ -70,6 +74,3 @@ También antes de agregar o modificar productos del carrito, valido el stock act
 
 - [Chat](https://drive.google.com/file/d/1N9gJxCTkbRzpF2LY81fshBhQUbH4YkD0/view)
 
-### Deploy en Heroku (Temporal):
-
-https://entrega1-prellezose.herokuapp.com
